@@ -4,6 +4,8 @@
 > FPGA 기반 디지털 신호 처리 (Xilinx Kintex-7 XC7K325T)  
 > 40 FM 채널 + 6 DMB 채널 동시 처리
 
+https://tvtel.co.kr/goods/catalog?page=1&code=00190002&popup=&iframe=
+
 ---
 
 ## 프로젝트 개요
